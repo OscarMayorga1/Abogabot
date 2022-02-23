@@ -5,13 +5,13 @@ Study case: **"Abogabot"** is a web site for client requirements automatization 
 
 - After filling the form the client will be redirected to the payment section to finish the transaction.
 
-- To follow the demand, clients need to sing up in the platform, then they can check all the updates in the legal proccess.
+- To follow the demand, clients need to sing up in the platform, then they can check all the updates during all the legal process.
 
-- The site administrator receive a notification from a new demand and with all the collected data from the form create the legal documment in a Word format to start the proccess.
+- The site administrator receive a notification from a new demand and with all the collected data from the form and create the legal documment in a Word format to start the process.
 
 - The admin proccess the payment and visualizate it in a dashboard with all the revenue from the platform.
 
-- The admin can upload the demand proccess and add comments in each new action taked in the proccess.
+- The admin can upload the demand process and add comments in each new action taked in the process.
 
 - The user get notifications via mail, with all new advances in the case.
 
